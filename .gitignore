@@ -1,0 +1,14 @@
+
+src/\.vs/
+
+src/VJ\.EventStoreWithCore\.Writer/bin/
+
+src/VJ\.EventStoreWithCore\.Writer/obj/
+
+src/VJ\.EventStoreWithCore\.Reader/bin/
+
+src/VJ\.EventStoreWithCore\.Reader/obj/
+
+src/VJ\.EventStoreWithCore\.Common/bin/
+
+src/VJ\.EventStoreWithCore\.Common/obj/
